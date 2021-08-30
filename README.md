@@ -1,4 +1,4 @@
-# My Bash Colors
+# My Bash Prompt
 
 This is nothing but a simple tweak at the bash terminal colors that I use,through the `PS1` and `LS_COLORS` environment variables, in order to improve the readability of the shell.
 
